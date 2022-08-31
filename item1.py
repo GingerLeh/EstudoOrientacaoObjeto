@@ -1,5 +1,5 @@
 # Alessa Baptista dos Santos
-# Ra: 10483121089
+#GitHub: GingerLeh
 #----------------------------------------------#------------------------------------------------------#
 class CodigoPostal: 
     def __init__(self, indicativo:str,extensao:str,rua:str):
