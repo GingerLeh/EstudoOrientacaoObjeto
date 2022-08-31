@@ -1,6 +1,6 @@
 
 # Alessa Baptista dos Santos
-# Ra: 10483121089
+#GitHub: GingerLeh
 #----------------------------------------------#------------------------------------------------------#
 class Horario: 
     def  __init__(self,hora:int,minuto:int):
