@@ -1,5 +1,5 @@
 # Alessa Baptista dos Santos
-# Ra: 10483121089
+# GitHub: GingerLeh
 #----------------------------------------------#------------------------------------------------------#
 import random
 import numpy as np
